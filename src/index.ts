@@ -42,4 +42,4 @@ app.use(routes)
 app.listen(process.env.PORT || 8888, () => {
   console.log('Servidor em Execução');
 });
-
+//thais
